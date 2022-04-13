@@ -1,4 +1,4 @@
-run = "dotnet build"
+run = "dotnet run --project playground/Replit.DataApi/Replit.DataApi.csproj"
 entrypoint = "Program.cs"
 
 hidden = ["bin", "obj"]
